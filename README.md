@@ -44,6 +44,13 @@ To activate IIS or Internet Information Services for osTicket to work, I go thro
 <br />
 
 <p>
+<img src="https://imgur.com/drBah8h.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open and install MySQL. This program will aid in storing user information, departments, and system settings.</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/ugSz1J9.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
