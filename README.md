@@ -44,6 +44,14 @@ To activate IIS or Internet Information Services for osTicket to work, I go thro
 <br />
 
 <p>
+<img src="https://imgur.com/cnHTxMk.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Proof the IIS has been activated.
+</p>
+<br />
+
+<p>
 <img src="https://imgur.com/drBah8h.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
