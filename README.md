@@ -82,6 +82,14 @@ Here, I input the information needed to complete the osTicket installation.
 <br />
 
 <p>
+<img src="https://imgur.com/6y2h4Ya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congratulations! I've installed osTicket.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/5ic8TJD.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
