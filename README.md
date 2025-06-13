@@ -74,6 +74,14 @@ Before completely being done, we have to set up our databases and connect them t
 <br />
 
 <p>
+<img src="https://imgur.com/xwtvLUm.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here, I input the information needed to complete the osTicket installation.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/5ic8TJD.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
